@@ -1,4 +1,4 @@
-## Hi there 👋# 🎯 Apex Legends Aimbot Core — Precision Aim Assistant for Apex
+# 🎯 Apex Legends Aimbot Core — Precision Aim Assistant for Apex
 
 Apex Legends Aimbot Core is a configurable **Apex Legends aimbot** for a game where bullets travel and targets move. Control **FOV**, **smoothing**, **humanized movement**, **projectile lead**, and **hitbox priority**, then keep separate setups for the **R-301**, **Flatline**, **Wingman**, and **Kraber**.
 
@@ -42,14 +42,3 @@ Per-weapon profiles handle the difference between an R-301 spray, a Wingman flic
 ## 🔑 SEO Keywords
 
 Apex Legends aimbot, Apex aimbot, Apex aim assist, Apex Legends aimbot FOV, Apex smoothing, Apex projectile lead, Apex bullet prediction, Apex hitbox priority, Apex visibility check, Apex triggerbot, Apex recoil control, Apex per-weapon config, Apex aimbot profiles, Apex aim settings, Apex aim tool
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
